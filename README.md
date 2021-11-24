@@ -25,7 +25,7 @@ My name is Drishti De and I am interested in the field of Machine Learning and D
 * 🤖 Artificial Intelligence (using Prolog and Python)
 * 📱 Mobile Computing (including App Development on Android Studio)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishti20075&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishti20075&theme=dark" />
 
 [![Drishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishti20075&count_private=True)](https://github.com/drishti20075/github-readme-stats)
 
