@@ -25,4 +25,6 @@ My name is Drishti De and I am interested in the field of Machine Learning and D
 * 🤖 Artificial Intelligence (using Prolog and Python)
 * 📱 Mobile Computing (including App Development on Android Studio)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishti20075&theme=<THEME_NAME>" />
+
 Some of my own projects done on different course platforms like Udemy and Coursera and also course related repositories are made public so as to shed light, give references/ideas and inspire everyone to delve deeper into these subjects and learn more about them. Have a look!
