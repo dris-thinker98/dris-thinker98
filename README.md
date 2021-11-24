@@ -23,5 +23,6 @@ My name is Drishti De and I am interested in the field of Machine Learning and D
 * 🎬 Collaborative Filtering
 * 🗃️ Information Retrieval Systems
 * 🤖 Artificial Intelligence (using Prolog and Python)
-* 📱 Mobile Computing (including App Development on Andriod Studio)
+* 📱 Mobile Computing (including App Development on Android Studio)
 
+Some of my course related repositories are made public so as to shed light, give references/ideas and inspire everyone to delve deeper into these subjects and learn more about them. Have a look!
