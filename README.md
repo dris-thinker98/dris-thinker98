@@ -30,6 +30,12 @@ My name is Drishti De, Computer Science Engineer pursuing M.Tech from IIIT Delhi
 [![Drishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishti20075&count_private=True&theme=buefy&hide=stars,prs)](https://github.com/drishti20075/github-readme-stats)
 
 - 🤝 Looking for collaboration in Research work and projects on ML and Data Science
-- 🔗 Connect with me through LinkedIn
+- 🔗 Connect with me through [![LinkedIn]][1]
+
+<!-- Icons -->
+<!-- [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) -->
+
+<!-- Links to your social media accounts -->
+[2]: https://www.linkedin.com/in/drishti-de358/
 
 Some of my own projects done on different course platforms like Udemy and Coursera and also course related repositories are made public so as to shed light, give references/ideas and inspire everyone to delve deeper into these subjects and learn more about them. Have a look!
