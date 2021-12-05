@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am _**Drishti De**_, Computer Science Engineer pursuing _M.Tech_ from _IIIT Delhi_. I have worked on _Machine Learning, Deep Learning, Data Science & Analytics_ and _Android projects_. I love to test and expand my knowledge through new, creative and insightful projects.<br>
+I am _**Drishti De**_, Computer Science Engineer pursuing _M.Tech_ from _IIIT Delhi_. I have worked on _Machine Learning, Deep Learning, Data Science & Analytics_ and _Android projects_. I love to test and expand my knowledge through new, creative and insightful projects.<br><br>
 📚 I have done courses on:
 * 📈 Data Mining
 * 🖥️ Machine Learning
