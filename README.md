@@ -30,7 +30,7 @@ My name is Drishti De, Computer Science Engineer pursuing M.Tech from IIIT Delhi
 [![Drishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishti20075&count_private=True&theme=buefy&hide=stars,prs)](https://github.com/drishti20075/github-readme-stats)
 
 - 🤝 Looking for collaboration in Research work and projects on ML and Data Science
-- 🔗 Connect with me through [![LinkedIn]][1]
+- 🔗 Connect with me through [LinkedIn][1]
 
 <!-- Icons -->
 <!-- [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) -->
