@@ -20,7 +20,7 @@ My name is Drishti De, Computer Science Engineer pursuing M.Tech from IIIT Delhi
 * 📈 Data Mining
 * 🖥️ Machine Learning
 * 🍲 Computational Gastromony (Food and Culinary Data Analytics)
-* 🎬 Collaborative Filtering
+* 🎬 Collaborative Filtering (Recommender Systems)
 * 🗃️ Information Retrieval Systems
 * 🤖 Artificial Intelligence (using Prolog and Python)
 * 📱 Mobile Computing (including App Development on Android Studio)
@@ -38,4 +38,4 @@ My name is Drishti De, Computer Science Engineer pursuing M.Tech from IIIT Delhi
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/drishti-de358/
 
-Some of my own projects done on different course platforms like Udemy and Coursera and also course related repositories are made public so as to shed light, give references/ideas and inspire everyone to delve deeper into these subjects and learn more about them. Have a look!
+Some of my own projects done on different course platforms like Udemy and Coursera and also course related repositories are made public so as to shed light, give references/ideas and inspire everyone to learn more about these topics. Have a look!
