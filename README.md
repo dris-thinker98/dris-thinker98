@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Drishti De, Computer Science Engineer pursuing M.Tech from IIIT Delhi. I am keen interested in working on cutting edge technologies. I have worked on Machine Learning, Deep Learning, Data Science & Analytics and Android projects. I love to test and expand my knowledge through new, creative and insightful projects.<br>
+I am _Drishti De_, Computer Science Engineer pursuing _M.Tech_ from _IIIT Delhi_. I am keen interested in working on cutting edge technologies. I have worked on _Machine Learning, Deep Learning, Data Science & Analytics_ and _Android projects_. I love to test and expand my knowledge through new, creative and insightful projects.<br>
 📚 I have done courses on:
 * 📈 Data Mining
 * 🖥️ Machine Learning
