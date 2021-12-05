@@ -25,7 +25,7 @@ My name is Drishti De, Computer Science Engineer pursuing M.Tech from IIIT Delhi
 * 🤖 Artificial Intelligence (using Prolog and Python)
 * 📱 Mobile Computing (including App Development on Android Studio)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishti20075&theme=buefy" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishti20075&theme=buefy&layout=compact" />
 
 [![Drishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishti20075&show_icons=true&count_private=True&theme=buefy&hide=stars,prs,issues)](https://github.com/drishti20075/github-readme-stats)
 
