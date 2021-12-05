@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Drishti De and I am interested in the field of Machine Learning and Data Science.<br>
+My name is Drishti De, Computer Science Engineer pursuing M.Tech from IIIT Delhi. I am keen interested in working on cutting edge technologies. I have worked on Machine Learning, Deep Learning, Data Science & Analytics and Android projects. I love to test and expand my knowledge through new, creative and insightful projects.<br>
 📚 I have done courses on:
 * 📈 Data Mining
 * 🖥️ Machine Learning
@@ -28,5 +28,8 @@ My name is Drishti De and I am interested in the field of Machine Learning and D
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drishti20075&theme=buefy" />
 
 [![Drishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drishti20075&count_private=True&theme=buefy&hide=stars,prs)](https://github.com/drishti20075/github-readme-stats)
+
+- 🤝 Looking for collaboration in Research work and projects on ML and Data Science
+- 🔗 Connect with me through LinkedIn
 
 Some of my own projects done on different course platforms like Udemy and Coursera and also course related repositories are made public so as to shed light, give references/ideas and inspire everyone to delve deeper into these subjects and learn more about them. Have a look!
