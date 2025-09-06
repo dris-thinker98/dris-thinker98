@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 I am _**Drishti De**_, an experienced and result-driven Senior Software Engineer (Data Analytics) and pursued _M.Tech_ from _IIIT Delhi_. 
 
+As a Senior Software Engineer in Data Analytics Domain, I have the following skillsets:
+* 🏭 Supply Chain Data Analytics
+* 📈 Data Visualization Tools
+* 👨🏻‍💻 Python (Automation, Data, APIs, etc.)
+* 📎 Microsoft Power Platform Tools (Power Automate, Power Apps, Power-BI)
+* ✨ Generative Business Intelligence (Gen AI in Business Intelligence)
+
 In my Masters, I have worked on _Machine Learning, Deep Learning, Data Science & Analytics_ and _Android projects_. I love to test and expand my knowledge through new, creative and insightful projects.<br><br>
 📚 I have done courses on:
 * 📈 Data Mining
