@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am _**Drishti De**_, an experienced and result-driven Software Engineer 2 (Data Analytics) and pursued _M.Tech_ from _IIIT Delhi_. 
+I am _**Drishti De**_, an experienced and result-driven Senior Software Engineer (Data Analytics) and pursued _M.Tech_ from _IIIT Delhi_. 
 
 In my Masters, I have worked on _Machine Learning, Deep Learning, Data Science & Analytics_ and _Android projects_. I love to test and expand my knowledge through new, creative and insightful projects.<br><br>
 📚 I have done courses on:
